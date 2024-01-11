@@ -1,21 +1,27 @@
 {
   "files": {
-    "main.css": "/My_Portfolio/static/css/main.1898290c.css",
-    "main.js": "/My_Portfolio/static/js/main.93a0a89f.js",
+    "main.css": "/My_Portfolio/static/css/main.8d4555bf.css",
+    "main.js": "/My_Portfolio/static/js/main.2286ccdd.js",
     "static/media/me-about.jpg": "/My_Portfolio/static/media/me-about.7dd6a3edbda5c4bee445.jpg",
+    "static/media/netflix.png": "/My_Portfolio/static/media/netflix.589698568b6b0b25bfdc.png",
+    "static/media/imdb.png": "/My_Portfolio/static/media/imdb.f9fdf2a133cc36e9abbc.png",
+    "static/media/quiz.png": "/My_Portfolio/static/media/quiz.393c242e3c7334fbd5d1.png",
+    "static/media/dashboard.png": "/My_Portfolio/static/media/dashboard.108d13149d99003f9ec3.png",
     "static/media/me.png": "/My_Portfolio/static/media/me.1d11d33f71a635c8dbb4.png",
-    "static/media/portfolio5.png": "/My_Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/My_Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/My_Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/My_Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/My_Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/My_Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/expence.png": "/My_Portfolio/static/media/expence.9174a3ac9dd227f15d85.png",
+    "static/media/cv.pdf": "/My_Portfolio/static/media/cv.2db4a134c6146b26ba1a.pdf",
+    "static/media/pixabay.jpg": "/My_Portfolio/static/media/pixabay.ace7a058d09cd6e5517b.jpg",
+    "static/media/realEstate.png": "/My_Portfolio/static/media/realEstate.76dd4a277f170006c375.png",
+    "static/media/notes.png": "/My_Portfolio/static/media/notes.75aaa186a69d12f98608.png",
+    "static/media/fitness.png": "/My_Portfolio/static/media/fitness.f138cbf7147319902a50.png",
+    "static/media/weather.png": "/My_Portfolio/static/media/weather.1d95ca0e6b708a07b185.png",
+    "static/media/dictionary.jpg": "/My_Portfolio/static/media/dictionary.858032f96a68bcb623dd.jpg",
     "index.html": "/My_Portfolio/index.html",
-    "main.1898290c.css.map": "/My_Portfolio/static/css/main.1898290c.css.map",
-    "main.93a0a89f.js.map": "/My_Portfolio/static/js/main.93a0a89f.js.map"
+    "main.8d4555bf.css.map": "/My_Portfolio/static/css/main.8d4555bf.css.map",
+    "main.2286ccdd.js.map": "/My_Portfolio/static/js/main.2286ccdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.1898290c.css",
-    "static/js/main.93a0a89f.js"
+    "static/css/main.8d4555bf.css",
+    "static/js/main.2286ccdd.js"
   ]
 }
