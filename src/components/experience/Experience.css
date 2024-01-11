@@ -1,8 +1,10 @@
+.experience {
+  padding: 5px;
+}
 .experience__container {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 2rem;
-  width: 100%;
 }
 
 .experience__container > div {
@@ -69,6 +71,9 @@
 }
 
 @media screen and (max-width: 600px) {
+  .experience__container {
+    width: 100%;
+  }
   .experience__container > div {
     width: 95%;
   }

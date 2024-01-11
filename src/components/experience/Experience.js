@@ -111,12 +111,19 @@ const Experience = () => {
         </div>
 
         <div className="experience__backend">
-          <h3>FullStack Framework</h3>
+          <h3>FullStack Framework && Testing</h3>
           <div className="experience__content">
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details__icon" />
               <div>
                 <h4>Next JS</h4>
+              </div>
+            </article>
+
+            <article className="experience__details">
+              <BsFillPatchCheckFill className="experience__details__icon" />
+              <div>
+                <h4>JEST</h4>
               </div>
             </article>
           </div>
